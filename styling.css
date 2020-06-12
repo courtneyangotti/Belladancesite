@@ -14,9 +14,9 @@
 }
 
 h1 a{
-    
+   font-family: 'Meie Script', cursive;
     font-size: 50px;
-    font-weight: 100;
+    font-weight: 60;
     color: #AB8A99;
     text-decoration: none;
     
@@ -107,6 +107,7 @@ body{
     
 }
 #introduction h3{
+    font-family: 'Meie Script', cursive;
     font-size:45px;
     Color: #353535;
     font-weight: normal;
